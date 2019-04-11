@@ -1,0 +1,25 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   23.20.16.4973
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\SHOKO\Desktop\すしづめ！_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\SHOKO\Desktop\すしづめ！_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\SHOKO\Desktop\すしづめ！_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\SHOKO\Desktop\すしづめ！_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\SHOKO\Desktop\すしづめ！_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\SHOKO\Desktop\すしづめ！_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\SHOKO\Desktop\すしづめ！_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\SHOKO\Desktop\すしづめ！_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\SHOKO\Desktop\すしづめ！_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\SHOKO\Desktop\すしづめ！_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.028 seconds
+Platform assembly: C:\Users\SHOKO\Desktop\すしづめ！_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\SHOKO\Desktop\すしづめ！_Data\Managed\System.dll (this message is harmless)
+desktop: 3200x1800 60Hz; virtual: 3200x1800 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
